@@ -1,7 +1,7 @@
-# Integracion de datos
+# Integración de datos
 En este repositorio se podrá encontrar el proyecto final del grupo ***Los Glutenos***, para la materia Integración de Datos de la Facultad de Ingeniería de la Universidad de la República del Uruguay.
 
-## Ejecucion
+## Ejecución
 Es suficiente con la descarga del archivo Codigo.ipynb.
 Para la ejecución del prototipo, se puede utilizar la aplicación de Google Colab(Preferiblemente) o localmente en la aplicación de Jupyter Notebook.
 
